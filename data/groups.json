@@ -1,5 +1,24 @@
 [
   {
+    "id": "biohacking-longevity-hub-telegram-20260930-1",
+    "title": "Bloomberg Health Tech & Biotech Feed",
+    "platform": "Telegram",
+    "category": "Biotech",
+    "memberCount": "120,000+ members",
+    "description": "Global reporting on clinical trials, pharmaceutical FDA clearances, and biomedical hardware innovations.",
+    "joinUrl": "https://t.me/bloomberg",
+    "tags": [
+      "telegram",
+      "biotech",
+      "fda",
+      "news"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-30"
+  },
+  {
     "id": "biohacking-longevity-hub-reddit-20260929-1",
     "title": "r/financialindependence FIRE & Vitality Guild",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-29"
   },
   {
