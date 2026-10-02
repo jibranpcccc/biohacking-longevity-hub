@@ -1,5 +1,24 @@
 [
   {
+    "id": "biohacking-longevity-hub-forum-20261002-1",
+    "title": "Bogleheads Health Savings & Planning Forum",
+    "platform": "Forum",
+    "category": "Forum",
+    "memberCount": "110,000+ members",
+    "description": "Evidence-based financial and health savings account management for lifelong stability.",
+    "joinUrl": "https://bogleheads.org/forum/",
+    "tags": [
+      "bogleheads",
+      "hsa",
+      "planning",
+      "forum"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-02"
+  },
+  {
     "id": "biohacking-longevity-hub-telegram-20261001-1",
     "title": "TechCrunch Biotech & Health Devices",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-01"
   },
   {
