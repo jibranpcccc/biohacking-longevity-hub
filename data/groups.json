@@ -1,5 +1,24 @@
 [
   {
+    "id": "biohacking-longevity-hub-discord-20261003-1",
+    "title": "OpenAI Research & Longevity AI Discord",
+    "platform": "Discord",
+    "category": "AI Health",
+    "memberCount": "200,000+ members",
+    "description": "AI researchers exploring biological modeling, protein structures, and medical data analysis.",
+    "joinUrl": "https://discord.gg/openai",
+    "tags": [
+      "ai",
+      "biology",
+      "research",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-03"
+  },
+  {
     "id": "biohacking-longevity-hub-forum-20261002-1",
     "title": "Bogleheads Health Savings & Planning Forum",
     "platform": "Forum",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-02"
   },
   {
