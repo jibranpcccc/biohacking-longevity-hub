@@ -1,5 +1,24 @@
 [
   {
+    "id": "biohacking-longevity-hub-discord-20261005-1",
+    "title": "Claude AI Health & Biomarker Analysis Discord",
+    "platform": "Discord",
+    "category": "AI Health",
+    "memberCount": "85,000+ members",
+    "description": "Community discussing Claude prompts for parsing blood panels, DEXA scans, and medical studies.",
+    "joinUrl": "https://discord.gg/anthropic",
+    "tags": [
+      "claude",
+      "biomarkers",
+      "health",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-05"
+  },
+  {
     "id": "biohacking-longevity-hub-discord-20261003-1",
     "title": "OpenAI Research & Longevity AI Discord",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-03"
   },
   {
