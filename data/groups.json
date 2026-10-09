@@ -1,5 +1,23 @@
 [
   {
+    "id": "biohacking-longevity-hub-reddit-20261009-1",
+    "title": "r/MachineLearning Healthcare Deep Learning",
+    "platform": "Reddit",
+    "category": "Machine Learning",
+    "memberCount": "2,900,000+ members",
+    "description": "Frontier research papers in computational biology, computer vision for medical imaging, and drug discovery.",
+    "joinUrl": "https://www.reddit.com/r/MachineLearning/",
+    "tags": [
+      "machine-learning",
+      "computational-biology",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-09"
+  },
+  {
     "id": "biohacking-longevity-hub-forum-20261008-1",
     "title": "Hugging Face Biomedical Models Forum",
     "platform": "Forum",
@@ -15,7 +33,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-08"
   },
   {
