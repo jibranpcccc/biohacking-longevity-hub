@@ -1,5 +1,23 @@
 [
   {
+    "id": "biohacking-longevity-hub-discord-20261016-1",
+    "title": "Capital Finance & Longevity Investment Discord",
+    "platform": "Discord",
+    "category": "Finance",
+    "memberCount": "40,000+ members",
+    "description": "Investing in biotech equities, longevity therapeutic developers, and health diagnostics.",
+    "joinUrl": "https://discord.gg/finance",
+    "tags": [
+      "finance",
+      "biotech-investing",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-16"
+  },
+  {
     "id": "biohacking-longevity-hub-telegram-20261015-1",
     "title": "Machine Learning Health Digest Channel",
     "platform": "Telegram",
@@ -15,7 +33,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-15"
   },
   {
