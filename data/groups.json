@@ -1,5 +1,23 @@
 [
   {
+    "id": "biohacking-longevity-hub-discord-20261017-1",
+    "title": "QuantMap Biohacking Portfolio Discord",
+    "platform": "Discord",
+    "category": "Markets",
+    "memberCount": "150,000+ members",
+    "description": "Market intelligence covering preventative medicine companies, healthcare ETFs, and medical devices.",
+    "joinUrl": "https://discord.gg/investing",
+    "tags": [
+      "investing",
+      "healthcare-etf",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-17"
+  },
+  {
     "id": "biohacking-longevity-hub-discord-20261016-1",
     "title": "Capital Finance & Longevity Investment Discord",
     "platform": "Discord",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-16"
   },
   {
