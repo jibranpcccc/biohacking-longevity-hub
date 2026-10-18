@@ -1,5 +1,24 @@
 [
   {
+    "id": "biohacking-longevity-hub-discord-20261018-1",
+    "title": "Pegasus Founders Health & Energy Discord",
+    "platform": "Discord",
+    "category": "Executive Health",
+    "memberCount": "45,000+ members",
+    "description": "High-performing founders sharing peak performance habits, fasting schedules, and biohacking stacks.",
+    "joinUrl": "https://discord.gg/entrepreneur",
+    "tags": [
+      "founders",
+      "energy",
+      "performance",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-18"
+  },
+  {
     "id": "biohacking-longevity-hub-discord-20261017-1",
     "title": "QuantMap Biohacking Portfolio Discord",
     "platform": "Discord",
@@ -14,7 +33,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-17"
   },
   {
